@@ -8,6 +8,7 @@ import streamlit as st
 
 st.title("nayi's app")
 st.title("_Streamlit_ is : pink[shy]:3")
+
 import streamlit as st
 
 st.header("_Streamlit_ is : pink[shy]:3")
