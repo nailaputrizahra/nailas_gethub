@@ -7,4 +7,4 @@ st.write(
 import streamlit as st
 
 st.title("nayi's app")
-st.title("_Streamlit_ is :pink[shy] :")
+st.title("_Streamlit_ is :pink[shy]:")
