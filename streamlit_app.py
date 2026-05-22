@@ -6,5 +6,5 @@ st.write(
 )
 import streamlit as st
 
-st.title("This is a title")
-st.title("_Streamlit_ is :blue[cool] :sunglasses:")
+st.title("nayi's app")
+st.title("_Streamlit_ is :pink[shy] :")
